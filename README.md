@@ -35,4 +35,8 @@ This repo contains a collection of classic ShiVa 1.5 to 1.9 demos from the years
 - Tweener
 
 # License
-The ShiVa license applies to all of these STE packages: The code is free to use (MIT), but art assets are copyrighted and cannot be used in your own projects without written authorization. 
+The ShiVa license applies to all of these STE packages: The code is free to use (MIT), but art assets are copyrighted and cannot be used in your own projects without written authorization.
+
+# Screenshots
+![ragdoll](screenshots/ragdoll.jpg) ![shadow](screenshots/shadow.jpg) ![trails](screenshots/trails.jpg)
+
